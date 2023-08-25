@@ -1,0 +1,43 @@
+{
+  "id": "4b7236d7-b979-53b4-a7a5-eb12104f3e17",
+  "bucket": "",
+  "apple": "",
+  "description": "",
+  "method": "",
+  "url": "",
+  "content-type": "",
+  "payload": "",
+  "argument": [
+    {
+      "key": "",
+      "value": "",
+      "argumentOpinion": "",
+      "argumentType": "",
+      "function": {
+        "functionName": "",
+        "parameter": ""
+      },
+      "description": ""
+    }
+  ],
+  "requestFunction": [
+    {
+      "functionName": "",
+      "parameter": null
+    }
+  ],
+  "responseFunction": [
+    {
+      "functionName": "",
+      "parameter": null
+    }
+  ],
+  "format": [
+    {
+      "condition": "",
+      "template": "",
+      "cacheOpen": false,
+      "hold": 1000
+    }
+  ]
+}

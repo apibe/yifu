@@ -1,0 +1,14 @@
+{
+  "mode": "debug",
+  "addr": [
+    "localhost:6190"
+  ],
+  "middleMan": [
+    {
+      "name": "golang",
+      "addr": "localhost:6191"
+    }
+  ],
+  "resource": "./resource",
+  "log": "info"
+}
