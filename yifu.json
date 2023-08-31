@@ -1,0 +1,14 @@
+{
+  "mode": "debug",
+  "addr": [
+    "localhost:6190"
+  ],
+  "middleMan": [
+    {
+      "name": "golang",
+      "addr": "localhost:6191"
+    }
+  ],
+  "resource": "/Users/apple/Desktop/diit/workspace/apibe/yifu/recourse",
+  "log": "info"
+}
