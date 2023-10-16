@@ -1,0 +1,21 @@
+# 系统参数
+system:
+  env:
+  addr:
+  router-prefix:
+
+# 资源存放路径
+resource:
+
+# 跨域配置
+cors:
+  mode:
+  whitelist:
+
+# 系统级别缓存配置 go-cache
+cache:
+  default-expiration:
+  cleanup-interval:
+
+# 远程过程调用 子服务(restful)
+rpc:
